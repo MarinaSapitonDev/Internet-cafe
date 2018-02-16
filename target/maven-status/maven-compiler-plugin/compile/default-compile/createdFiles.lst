@@ -1,0 +1,15 @@
+TestTask\Controller\MainController.class
+TestTask\Service\ServiceOrder.class
+TestTask\Model\Configuration.class
+TestTask\Model\HibernateUtil.class
+TestTask\Service\ServiceConfiguration.class
+TestTask\Service\ServiceCoffee.class
+TestTask\Model\TypeQuantitys.class
+TestTask\Model\CoffeeOrderItem.class
+TestTask\Service\CoffeeItemValues.class
+TestTask\Service\ConvertQuantity.class
+TestTask\Model\CoffeeOrder.class
+TestTask\Service\CalculateOrder.class
+TestTask\Model\CoffeeType.class
+TestTask\Service\ServiceOrderItem.class
+TestTask\Validator\QuantityValidator.class
